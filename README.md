@@ -1,8 +1,5 @@
 # citrus_contact_form
 
-# Project Name
-> Here goes your awesome project description!
-
 ## General info
 The purpose of the project is just personal learning. 
 
@@ -10,7 +7,7 @@ The purpose of the project is just personal learning.
 Contact form with input verification and color UI - HTML & CSS project from codecademy.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](screenshot.png)
 
 ## Technologies
 * HTML5
