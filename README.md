@@ -7,7 +7,7 @@ The purpose of the project is just personal learning.
 Contact form with input verification and color UI - HTML & CSS project from codecademy.
 
 ## Screenshots
-![Example screenshot](screenshot.png)
+![Example screenshot](Citrus_contact_form.png)
 
 ## Technologies
 * HTML5
